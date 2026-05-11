@@ -12,9 +12,9 @@ else:
 #if else
 a=int(input("How much time out of hel\n"))
 if a>18:
-    print("MUTH MAR")
+    print("U are now adult")
 else:
-    print("Abhi nunu chota h")
+    print("Still a way to go")
     
 a=None
 if (a is None):
