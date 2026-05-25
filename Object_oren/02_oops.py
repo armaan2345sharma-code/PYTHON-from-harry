@@ -1,5 +1,5 @@
 class remote():
-    passs
+    pass
 class player():
     def moveRight(self):
         pass
