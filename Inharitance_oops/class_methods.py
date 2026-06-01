@@ -5,7 +5,7 @@ class employee:
     def changesalary (self, sal):
         self.salary=sal#here salary is an instance attribute 
     @classmethod
-    def changecompany(cls, cmp):
+    def changecompany(cls, cmp):#here company is a class attribute and cls is used to access the class attributes 
         cls.company=cmp
         e=employee()
         print(e.company)
