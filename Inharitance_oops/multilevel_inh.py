@@ -1,5 +1,5 @@
 class person:
-    countary="india"
+    country="india"
     def takeBreath(self):
         print("I am breathing")
 class Employee(person):
